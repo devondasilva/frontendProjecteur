@@ -11,7 +11,8 @@ import {BrowserRouter, Routes, Route} from 'react-router-dom';
 // import Add from './components/action/Ajout';
 import Dashboard from './components/Dashboard';
 import Afficher from './components/action/affichage';
-import React from 'react';
+import { useState, useEffect } from 'react'; 
+// ...
 
 
 
